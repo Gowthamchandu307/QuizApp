@@ -26,8 +26,8 @@ In this course, we are going to use fundamental HTML, CSS, and JavaScript skills
 we are going to create the home page along with a good chunk of the necessary CSS. The home page will consist of a few links for the Game and High Scores pages. We will also create helper CSS classes for Flexbox, buttons, and hiding elements.
 ***
 I encourage you all to take a look at Emmet snippets for generating HTML and CSS.
-# 2. Create and Style the QuizPage
-we will create the Game Page and display static question and answer information. Eventually, we will load questions from an API, but for now, we will hard code one question so to establish styling.
+# 2. Create and necessary functions 
+we will create the functions and display static question and answer information. Eventually, we will load questions from an API, but for now, we will hard code one question so to establish styling.
 ***
 ## Documentation
 
