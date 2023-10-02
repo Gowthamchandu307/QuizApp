@@ -5,7 +5,12 @@ Source code - https://github.com/Gowthamchandu307/QuizApp.git
 <br>
 App Link -  https://gowthamchandu307.github.io/QuizApp
 
+![index_html](https://github.com/Gowthamchandu307/QuizApp/assets/109576947/195f98f3-4d14-4be8-b2fe-40a7185324e4)
+
+![Quiz](https://github.com/Gowthamchandu307/QuizApp/assets/109576947/787ad2b5-3a69-49f7-9618-0bd851f56d19)
+
 ## Key Features:
+
 User Authentication: Start by entering your username to embark on the quiz journey.
 Timed Questions: Each question comes with a countdown timer, adding an element of excitement and challenge.
 Real-time Feedback: Receive immediate feedback as you select your answers—correct answers turn green, and incorrect ones turn red.
